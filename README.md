@@ -1,25 +1,3 @@
-- 👋 Hi, I’m Ahmad Salem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22791
-Fork on GitHub
-7581
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Ahmad Salem</h1>
 <h3 align="center">A passionate frontend developer from Jordan</h3>
